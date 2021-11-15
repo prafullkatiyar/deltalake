@@ -1,0 +1,101 @@
+[
+ {
+   "Emp_ID": 706157,
+   "Name": "Prafull",
+   "Gender": "M",
+   "Birthdate": "12/01/1987",
+   "Address": "28 Junction St",
+   "City": "Birganbigil",
+   "Dep_ID": 1
+ },
+ {
+   "Emp_ID": 454928,
+   "Name": "Sid",
+   "Gender": "M",
+   "Birthdate": "10/09/1976",
+   "Address": "15 Peterho Boulevard",
+   "City": "Yattalunga",
+   "Dep_ID": 1
+ },
+ {
+   "Emp_ID": 122405,
+   "Name": "Dylan",
+   "Gender": "M",
+   "Birthdate": "13/03/1988",
+   "Address": "61 Farnell Street",
+   "City": "Murga",
+   "Dep_ID": 2
+ },
+ {
+   "Emp_ID": 973084,
+   "Name": "Graham",
+   "Gender": "F",
+   "Birthdate": "29/08/1986",
+   "Address": "72 McGregor Street",
+   "City": "Kinalung",
+   "Dep_ID": 3
+ },
+ {
+   "Emp_ID": 119991,
+   "Name": "Zaniyah Gutierrez",
+   "Gender": "F",
+   "Birthdate": "13/09/1989",
+   "Address": "87 Hummocky Road",
+   "City": "Karatta",
+   "Dep_ID": 4
+ },
+ {
+   "Emp_ID": 119991,
+   "Name": "Jadiel Webster",
+   "Gender": "M",
+   "Birthdate": "11/12/1978",
+   "Address": "94 Oriana Street",
+   "City": "Wyongah",
+   "Dep_ID": 6
+ },
+ {
+   "Emp_ID": 144961,
+   "Name": "Claudia Conley",
+   "Gender": "M",
+   "Birthdate": "5/05/2017",
+   "Address": "66 Wigley Street",
+   "City": "Morphettville",
+   "Dep_ID": 3
+ },
+ {
+   "Emp_ID": 809136,
+   "Name": "Jaron Bonilla",
+   "Gender": "F",
+   "Birthdate": "3/05/1959",
+   "Address": "41 Bellion Drive",
+   "City": "Cowaramup",
+   "Dep_ID": 5
+ },
+ {
+   "Emp_ID": 720951,
+   "Name": "Samara Lucero",
+   "Gender": "M",
+   "Birthdate": "1/06/1984",
+   "Address": "26 Plug Street",
+   "City": "Ben Lomond",
+   "Dep_ID": 6
+ },
+ {
+   "Emp_ID": 108537,
+   "Name": "Willie Watts",
+   "Gender": "M",
+   "Birthdate": "22/05/2000",
+   "Address": "7 Eungella Road",
+   "City": "Cannonvale",
+   "Dep_ID": 5
+ },
+ {
+   "Emp_ID": 710417,
+   "Name": "Steven Powers",
+   "Gender": "F",
+   "Birthdate": "31/01/1956",
+   "Address": "64 Rupara Street",
+   "City": "Blair Athol West",
+   "Dep_ID": 2
+ }
+]

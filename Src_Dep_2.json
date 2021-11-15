@@ -1,0 +1,50 @@
+[
+ {
+   "Dep_ID": 7,
+   "Dep_Name": "Management",
+   "Dep_Code": "MNG",
+   "Founded_On": "13/06/2004",
+   "Founded_This_Century": "Yes"
+ },
+ {
+   "Dep_ID": 8,
+   "Dep_Name": "Operations",
+   "Dep_Code": "OPS",
+   "Founded_On": "23/08/2012",
+   "Founded_This_Century": "Yes"
+ },
+ {
+   "Dep_ID": 9,
+   "Dep_Name": "Finance",
+   "Dep_Code": "FIN",
+   "Founded_On": "30/11/2025",
+   "Founded_This_Century": "Yes"
+ },
+ {
+   "Dep_ID": 10,
+   "Dep_Name": "Sales",
+   "Dep_Code": "SAL",
+   "Founded_On": "15/06/2017",
+   "Founded_This_Century": "Yes"
+ },
+ {
+   "Dep_ID": 11,
+   "Dep_Name": "Human Resource",
+   "Dep_Code": "HR",
+   "Founded_On": "12/03/2008",
+   "Founded_This_Century": "Yes"
+ },
+ {
+   "Dep_ID": 12,
+   "Dep_Name": "Purchase",
+   "Dep_Code": "PCH",
+   "Founded_On": "03/06/2019",
+   "Founded_This_Century": "Yes"
+ },
+ {
+   "Dep_ID": 6,
+   "Dep_Name": "Metellurgy_new",
+   "Dep_Code": "MET_a",
+   "Founded_On": "03/06/1965"
+ }
+]

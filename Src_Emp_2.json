@@ -1,0 +1,47 @@
+[
+ {
+   "Emp_ID": 766391,
+   "Name": "Alisa Phillips",
+   "Gender": "M",
+   "Birthdate": "15/02/1951",
+   "Address": "53 Walpole Avenue",
+   "City": "Mailer Flat",
+   "Dep_ID": 10
+ },
+ {
+   "Emp_ID": 210392,
+   "Name": "Malcolm Bartlett",
+   "Gender": "M",
+   "Birthdate": "24/03/1966",
+   "Address": "77 Tennyson Road",
+   "City": "Mount Lewis",
+   "Dep_ID": 8
+ },
+ {
+   "Emp_ID": 434780,
+   "Name": "Zoie Brewer",
+   "Gender": "F",
+   "Birthdate": "14/08/1982",
+   "Address": "55 Meyer Road",
+   "City": "Pewsey Vale",
+   "Dep_ID": 8
+ },
+ {
+   "Emp_ID": 459699,
+   "Name": "Addison Khan",
+   "Gender": "M",
+   "Birthdate": "1/10/2001",
+   "Address": "42 Adavale Road",
+   "City": "Goulburn Dc",
+   "Dep_ID": 12
+ },
+ {
+   "Emp_ID": 743630,
+   "Name": "Jaylin Barajas",
+   "Gender": "M",
+   "Birthdate": "13/09/2006",
+   "Address": "1 Lewin Street",
+   "City": "Grubben",
+   "Dep_ID": 11
+ }
+]

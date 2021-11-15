@@ -1,0 +1,38 @@
+[
+ {
+   "Dep_ID": 1,
+   "Dep_Name": "Computer Science",
+   "Dep_Code": "CS",
+   "Founded_On": "12/01/1987"
+ },
+ {
+   "Dep_ID": 2,
+   "Dep_Name": "Information Technology",
+   "Dep_Code": "IT",
+   "Founded_On": "22/02/1992"
+ },
+ {
+   "Dep_ID": 3,
+   "Dep_Name": "Mechanical",
+   "Dep_Code": "ME",
+   "Founded_On": "16/03/1954"
+ },
+ {
+   "Dep_ID": 4,
+   "Dep_Name": "Chemical",
+   "Dep_Code": "CHEM",
+   "Founded_On": "23/04/1999"
+ },
+ {
+   "Dep_ID": 5,
+   "Dep_Name": "Electronics",
+   "Dep_Code": "EL",
+   "Founded_On": "19/05/1911"
+ },
+ {
+   "Dep_ID": 6,
+   "Dep_Name": "Metellurgy",
+   "Dep_Code": "MET",
+   "Founded_On": "03/06/1965"
+ }
+]
